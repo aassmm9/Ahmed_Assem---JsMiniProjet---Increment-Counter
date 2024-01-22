@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+    background-image: url('./../img/wire.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.divCenter {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.firstCase {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    gap: 10px;
+}
+
+.secondCase {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    gap: 10px;
+}
+
+.thirdCase {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    gap: 10px;
+}
+
+.numbers1 {
+    font-size: 2em;
+    font-weight: 800;
+    margin: 0;
+}
+
+.numbers2 {
+    font-size: 2em;
+    font-weight: 800;
+    margin: 0;
+}
+
+.numbers3 {
+    font-size: 2em;
+    font-weight: 800;
+    margin: 0;
+}
+.text {
+    font-size: 1.2em;
+    margin: 0;
+}
